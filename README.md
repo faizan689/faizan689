@@ -53,10 +53,15 @@
 ---
 
 <!-- Snake Game -->
-<h3 align="center">🐍 Watch my contributions get eaten by a snake!</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/faizan689/faizan689/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizan689/faizan689/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizan689/faizan689/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faizan689/faizan689/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 
