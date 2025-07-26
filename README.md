@@ -35,7 +35,7 @@
 <!-- Skills -->
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,redux,solidity,java,rust,python,html,css,tailwind,figma,postgres,mongodb,mysql,oracle,aws,docker,kubernetes,linux,nginx,git,firebase,appwrite,chartjs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,redux,solidity,java,rust,python,html,css,tailwind,figma,postgres,mongodb,mysql,aws,docker,kubernetes,linux,nginx,git,firebase,appwrite,chartjs" />
 </p>
 
 ---
