@@ -1,6 +1,6 @@
 <!-- Banner & Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Faizan+Shaikh!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines= Hi +%F0%9F%91%8B%2C+I'm+Faizan+Shaikh!" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="120" height="120"/>
